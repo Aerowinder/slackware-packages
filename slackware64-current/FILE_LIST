@@ -1,5 +1,2 @@
-drwxr-xr-x  2 aseverns aseverns        0 2026-07-31 13:46 ./btop
--rwxr-xr-x  1 aseverns aseverns   853927 2026-07-31 13:46 ./btop/btop-1.4.7-x86_64-1_SBo.tgz
-drwxr-xr-x  2 aseverns aseverns        0 2026-07-31 13:48 .
--rwxr-xr-x  1 aseverns aseverns       57 2026-07-31 13:48 ./FILE_LIST
-
+drwxr-xr-x  2 aseverns aseverns        0 2026-11-18 10:43 btop
+-rwxr-xr-x  1 aseverns aseverns   884416 2026-11-18 10:43 btop/btop-1.4.8-x86_64-1_SBo.tgz
